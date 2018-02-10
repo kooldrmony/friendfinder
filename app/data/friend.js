@@ -3,7 +3,7 @@
 var newFriends = [
   {
     name: 'Derrick Reyes',
-    profilePic: 'https://avatars3.githubusercontent.com/u/17751317?v=3&s=466',
+    profilePic: '',
     scores: [
       "4",
       "5",
